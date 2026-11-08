@@ -142,9 +142,9 @@ for (;;) {
 
 * **Mục tiêu của RPC:** Cho phép một chương trình trên máy $A$ gọi một hàm/thủ tục trên máy tính $B$ từ xa với cú pháp tự nhiên như một lời gọi hàm cục bộ trong cùng một không gian nhớ: 
 
-  $$
-  \text{Result} = \text{ExecuteRemoteFunction}(x, y)
-  $$
+$$
+\text{Result} = \text{ExecuteRemoteFunction}(x, y)
+$$
 
 * Cung cấp **Tính trong suốt về truy cập (Access Transparency)**.
 
